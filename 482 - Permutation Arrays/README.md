@@ -1,5 +1,5 @@
 # 482 - Permutation Arrays
-
+TODO: add math formula to github readme
 
 ## Input
 
