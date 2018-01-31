@@ -3,7 +3,7 @@ TODO: add math formula to github readme
 
 ## Input
 
-<tab>The input begins with a single positive integer on a line by itself indicating the number of the cases
+The input begins with a single positive integer on a line by itself indicating the number of the cases
 following, each of them as described below. This line is followed by a blank line, and there is also a
 blank line between two consecutive inputs.
 <tab>Each input set will contain two lines of numbers. The first line will be an index array *p* containing the integers *1...n*, where *n* is the number of integers in the list. The numbers in the first line will have been permuted in some fashion. The second line will contain a list numbers in floating point format.
