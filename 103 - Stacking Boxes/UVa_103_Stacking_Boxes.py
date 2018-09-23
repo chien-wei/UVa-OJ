@@ -9,7 +9,7 @@ class Box:
     
     def __gt__(self, other):
         for i in range(self.dimention):
-            if self.size[i] < other.size[i]:
+            if self.size[i] <= other.size[i]:
                 return False
         return True
     def __repr__(self):
